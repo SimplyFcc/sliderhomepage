@@ -6,7 +6,7 @@
  * @version 2.51.0
  * @date Jan 2017
  */
-  
+    
 
 /* ================== bin-debug/js/pro/tools/base.js =================== */
 window.averta = {};
